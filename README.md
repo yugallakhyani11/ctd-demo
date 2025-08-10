@@ -1,2 +1,4 @@
 # ctd-demo
-Git introdction demo
+Git introduction demo
+
+Week 5 - Array functions
