@@ -4,3 +4,5 @@ Git introduction demo
 Week 5 - Array functions
 
 Author: Yugal
+
+student: Maryzabeth
