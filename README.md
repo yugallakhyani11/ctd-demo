@@ -5,4 +5,4 @@ Week 5 - Array functions
 
 Author: Yugal
 
-student: Maryzabeth
+student: Mary Z.
